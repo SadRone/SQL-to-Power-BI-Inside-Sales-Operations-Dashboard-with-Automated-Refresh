@@ -1,3 +1,11 @@
+
+**Sharepoint Link**
+
+https://audubai-my.sharepoint.com/my?id=%2Fpersonal%2Fhyunmin%5Fpark%5Fmymail%5Faud%5Fedu%2FDocuments%2FSales%20Dashboard%20Demo&viewid=87ca6c56%2Dcd2c%2D4170%2Db1bb%2Dd721c5396b8e
+
+Will be refreshed every sunday at UTC + 4 ( UAE Time )
+
+
 **Project Overview**
 
 This project was designed as an end-to-end simulation of an Inside Sales Information System. It covers the full workflow from SQL Server database design and data structuring to Power BI dashboard development, SharePoint integration, and scheduled refresh through Power BI Service.
@@ -119,8 +127,18 @@ SharePoint-based file management for reporting assets
 
 Most importantly, I learned how BI reporting is not only about visuals, but also about data structure, workflow reliability, and system connectivity.
 
-**Sharepoint Link**
+**Business Relevance**
 
-https://audubai-my.sharepoint.com/my?id=%2Fpersonal%2Fhyunmin%5Fpark%5Fmymail%5Faud%5Fedu%2FDocuments%2FSales%20Dashboard%20Demo&viewid=87ca6c56%2Dcd2c%2D4170%2Db1bb%2Dd721c5396b8e
+This project was developed as a simulation, but it reflects real business scenarios where companies need better control over quotation, order, and reporting workflows.
 
-Will be refreshed every sunday at UTC + 4 ( UAE Time )
+It is particularly relevant for environments such as:
+
+Inside Sales
+Sales Operations
+Business Analysis
+CRM-related reporting
+Order and quotation tracking
+KPI monitoring and reporting automation
+
+I would be especially interested in applying this type of architecture in an industrial environment, ideally within a Dubai-based consumer electronics company, where quotation flow, order visibility, CRM-based activity, and reporting efficiency are all critical.
+
