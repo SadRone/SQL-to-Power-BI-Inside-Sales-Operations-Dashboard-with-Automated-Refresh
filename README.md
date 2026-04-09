@@ -4,3 +4,8 @@ This process took time, as I had to work through each step independently and und
 
 Overall, this project was designed to simulate an inside sales information system from the ground up by structuring transactional data in SQL Server, creating Excel-based operational files for business use, building KPI-driven Power BI dashboards, and automating report refresh workflows with Power Automate. Through this work, I developed a solid understanding of SQL Server and SQL Server Management Studio (SSMS), and I would be eager to apply these skills in an industrial setting, preferably within a Dubai-based consumer electronics company handling quotations, orders, CRM-related operations, and similar workflows. My goal would be to reduce manual tasks and reporting burdens by building a more efficient SQL-based data architecture supported by clear and actionable Power BI dashboards.
 
+Sharepoint Link:
+
+https://audubai-my.sharepoint.com/my?id=%2Fpersonal%2Fhyunmin%5Fpark%5Fmymail%5Faud%5Fedu%2FDocuments%2FSales%20Dashboard%20Demo&viewid=87ca6c56%2Dcd2c%2D4170%2Db1bb%2Dd721c5396b8e
+
+Will be refreshed every sunday at UTC + 4 ( UAE Time )
