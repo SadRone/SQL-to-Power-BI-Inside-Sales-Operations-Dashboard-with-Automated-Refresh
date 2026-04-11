@@ -142,3 +142,4 @@ KPI monitoring and reporting automation
 
 I would be especially interested in applying this type of architecture in an industrial environment, ideally within a Dubai-based consumer electronics company, where quotation flow, order visibility, CRM-based activity, and reporting efficiency are all critical.
 
+* It works only if I am running the DB Source
